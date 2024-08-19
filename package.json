@@ -1,0 +1,12 @@
+{
+  "name": "legacy_transaction",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "transaction.js",
+  "scripts": {
+    "start": "node transaction.js"
+  },
+  "dependencies": {
+    "web3": "^4.11.1"
+  }
+}
